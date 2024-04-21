@@ -3,7 +3,7 @@ En [中文](./README_CN.md)
 
 # Reddit 公开数据采集 API
 
-[Go to Platform](https://www.idatariver.com/project/reddit-data-api-b861)
+[Go to Platform](https://www.idatariver.com/zh-cn/project/reddit-data-api-b861)
 
 
 ## Success Response Examples
